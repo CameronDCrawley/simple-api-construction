@@ -20,7 +20,7 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
-# SBlue Collar Job Board
+# Blue Collar Job Board
 
 A simple web application that allows users to search for job listings in skilled trades across the US using the Adzuna Job Search API.
 
