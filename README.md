@@ -29,9 +29,3 @@ A simple web application that allows users to search for job listings in skilled
 
 <img width="2837" height="1565" alt="image" src="https://github.com/user-attachments/assets/037e8266-0530-4da6-8540-b65ab788a365" />
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
